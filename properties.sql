@@ -1,8 +1,3 @@
-/*
-	//Pedro Salazar
-*/
-
-	
 
 DROP DATABASE IF EXISTS properties;
 
